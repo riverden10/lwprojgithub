@@ -2,4 +2,4 @@
 echo $(date)
 echo $(cal)
 echo how ru 
-new line
+new line NE
